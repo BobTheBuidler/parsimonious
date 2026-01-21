@@ -4,5 +4,4 @@
 *.pyc
 build
 dist
-
 .worktrees/
